@@ -1,0 +1,270 @@
+Searching 1 file for "fontFamily"
+
+Unable to open /Users/daniel/Documents/wattz/src
+0 matches across 0 files
+
+
+Searching 48 files for "fontFamily"
+
+/Users/daniel/Documents/expoTest/src/screens/AddPicture/styles.js:
+  147    loginText:{
+  148      fontSize: Constants.Font25,
+  150      textAlign:'center',
+  151      marginTop: Constants.Marin16
+
+/Users/daniel/Documents/expoTest/src/screens/Complete/styles.js:
+  164    loginText:{
+  165      fontSize: Constants.Font25,
+  167      textAlign:'center',
+  168      marginTop: Constants.Marin16
+  ...
+  184      fontSize: Constants.Font15,
+  185      textAlign:'center',
+  187    },
+  188    button:{
+
+/Users/daniel/Documents/expoTest/src/screens/Connect/styles.js:
+  190    loginText:{
+  191      fontSize: Constants.Font25,
+  193      textAlign:'center',
+  194      marginTop: Constants.Marin16
+  ...
+  208      marginTop: Constants.Marin3,
+  209      fontSize: Constants.Font25,
+  211      textAlign:'center',
+  212    },
+
+/Users/daniel/Documents/expoTest/src/screens/DeleteId/styles.js:
+  154    loginText:{
+  155      fontSize: Constants.Font25,
+  157      textAlign:'center',
+  158      marginTop: Constants.Marin16
+  ...
+  185      fontSize: Constants.Font15,
+  186      textAlign:'center',
+  188    }
+  189  })
+
+/Users/daniel/Documents/expoTest/src/screens/Delivery/styles.js:
+   60    blackText:{
+   61      fontSize: Constants.Font20,
+   62:     fontFamily: 'OpenSans-Bold',
+   63      backgroundColor:'transparent',
+   64      width:Constants.Marin20
+   ..
+   66    rememberText:{
+   67      fontSize: Constants.Font20,
+   69      backgroundColor:'transparent',
+   70    },
+   71    blackcvsText:{
+   72      fontSize: Constants.Font20,
+   74      backgroundColor:'transparent',
+   75      width:Constants.Marin10,
+   ..
+  111      height: Constants.Marin10,
+  112      fontSize: Constants.Font20,
+  114      justifyContent:'center',
+  115    },
+  ...
+  223    loginText:{
+  224      fontSize: Constants.Font25,
+  226      textAlign:'center',
+  227      marginTop: Constants.Marin16
+  ...
+  254      fontSize: Constants.Font15,
+  255      textAlign:'center',
+  257    }
+  258  })
+
+/Users/daniel/Documents/expoTest/src/screens/Details/styles.js:
+  155    loginText:{
+  156      fontSize: Constants.Font25,
+  158      textAlign:'center',
+  159      marginTop: Constants.Marin16
+
+/Users/daniel/Documents/expoTest/src/screens/FinderMap/styles.js:
+   82      fontSize: Constants.Font20,
+   83      textAlign: 'center'
+   85      backgroundColor:'transparent'
+   86    },
+   ..
+  187    loginText:{
+  188      fontSize: Constants.Font25,
+  190      textAlign:'center',
+  191      marginTop: Constants.Marin16
+  ...
+  218      fontSize: Constants.Font15,
+  219      textAlign:'center',
+  221    }
+  222  })
+
+/Users/daniel/Documents/expoTest/src/screens/Login/styles.js:
+  154    loginText:{
+  155      fontSize: Constants.Font25,
+  157      textAlign:'center',
+  158      marginTop: Constants.Marin16
+  ...
+  185      fontSize: Constants.Font15,
+  186      textAlign:'center',
+  188    }
+  189  })
+
+/Users/daniel/Documents/expoTest/src/screens/Michael/styles.js:
+  157    loginText:{
+  158      fontSize: Constants.Font25,
+  160      textAlign:'center',
+  161      marginTop: Constants.Marin16
+  ...
+  168    boldText:{
+  169      fontSize: Constants.Font25,
+  171      textAlign:'center',
+  172    },
+
+/Users/daniel/Documents/expoTest/src/screens/MichaelMissing/styles.js:
+  148    loginText:{
+  149      fontSize: Constants.Font25,
+  150:     fontFamily: 'OpenSans-Bold',
+  151      textAlign:'center',
+  152      marginTop: Constants.Marin16
+  ...
+  165    selectcodeText:{
+  166      fontSize: Constants.Font25,
+  168      textAlign:'center',
+  169    },
+  ...
+  177      marginTop: Constants.Marin3,
+  178      fontSize: Constants.Font25,
+  180      textAlign:'center',
+  181    },
+
+/Users/daniel/Documents/expoTest/src/screens/NewKinder/styles.js:
+  148    loginText:{
+  149      fontSize: Constants.Font25,
+  151      textAlign:'center',
+  152      marginTop: Constants.Marin16
+  ...
+  165    selectcodeText:{
+  166      fontSize: Constants.Font25,
+  168      textAlign:'center',
+  169    },
+  ...
+  177      marginTop: Constants.Marin3,
+  178      fontSize: Constants.Font25,
+  180      textAlign:'center',
+  181    },
+
+/Users/daniel/Documents/expoTest/src/screens/Nowristband/styles.js:
+  157    loginText:{
+  158      fontSize: Constants.Font25,
+  160      textAlign:'center',
+  161      marginTop: Constants.Marin16
+  ...
+  168    boldText:{
+  169      fontSize: Constants.Font25,
+  171      textAlign:'center',
+  172    },
+
+/Users/daniel/Documents/expoTest/src/screens/Pay/styles.js:
+   61    blackText:{
+   62      fontSize: Constants.Font20,
+   64      backgroundColor:'transparent',
+   65      width:Constants.Marin20
+   ..
+   67    rememberText:{
+   68      fontSize: Constants.Font20,
+   70      backgroundColor:'transparent',
+   71    },
+   72    blackcvsText:{
+   73      fontSize: Constants.Font20,
+   75      backgroundColor:'transparent',
+   76      width:Constants.Marin10,
+   ..
+  112      height: Constants.Marin10,
+  113      fontSize: Constants.Font20,
+  115      justifyContent:'center',
+  116    },
+  ...
+  224    loginText:{
+  225      fontSize: Constants.Font25,
+  227      textAlign:'center',
+  228      marginTop: Constants.Marin16
+  ...
+  255      fontSize: Constants.Font15,
+  256      textAlign:'center',
+  258    }
+  259  })
+
+/Users/daniel/Documents/expoTest/src/screens/Profile/styles.js:
+  158    loginText:{
+  159      fontSize: Constants.Font25,
+  161      textAlign:'center',
+  162      marginTop: Constants.Marin16
+  ...
+  176      marginTop: Constants.Marin3,
+  177      fontSize: Constants.Font25,
+  179      textAlign:'center',
+  180    },
+
+/Users/daniel/Documents/expoTest/src/screens/ReplaceId/styles.js:
+  154    loginText:{
+  155      fontSize: Constants.Font25,
+  157      textAlign:'center',
+  158      marginTop: Constants.Marin16
+  ...
+  185      fontSize: Constants.Font15,
+  186      textAlign:'center',
+  188    }
+  189  })
+
+/Users/daniel/Documents/expoTest/src/screens/Reunited/styles.js:
+  148    loginText:{
+  149      fontSize: Constants.Font25,
+  151      textAlign:'center',
+  152      marginTop: Constants.Marin16
+  ...
+  165    selectcodeText:{
+  166      fontSize: Constants.Font25,
+  168      textAlign:'center',
+  169    },
+  ...
+  177      marginTop: Constants.Marin3,
+  178      fontSize: Constants.Font25,
+  180      textAlign:'center',
+  181    },
+
+/Users/daniel/Documents/expoTest/src/screens/Save/styles.js:
+  144    loginText:{
+  145      fontSize: Constants.Font25,
+  147      textAlign:'center',
+  148      marginTop: Constants.Marin16
+
+/Users/daniel/Documents/expoTest/src/screens/SelectList/styles.js:
+  148    loginText:{
+  149      fontSize: Constants.Font25,
+  150:     fontFamily: 'OpenSans-Bold',
+  151      textAlign:'center',
+  152      marginTop: Constants.Marin16
+  ...
+  159    selectcodeText:{
+  160      fontSize: Constants.Font25,
+  162      textAlign:'center',
+  163    },
+  ...
+  171      marginTop: Constants.Marin3,
+  172      fontSize: Constants.Font25,
+  174      textAlign:'center',
+  175    },
+
+/Users/daniel/Documents/expoTest/src/themes/styles.js:
+   61      sampleText: {
+   62        fontSize: responsiveFontSize(2), // 2% of total screen size
+   64        color:'white',
+   65        marginLeft:5,
+   ..
+  128      titleText: {
+  129        fontSize: responsiveFontSize(2), // 2% of total screen size
+  130:       //fontFamily:Fonts.ultra,
+  131        color:'white',
+  132        textAlign:'center',
+
+48 matches across 19 files
